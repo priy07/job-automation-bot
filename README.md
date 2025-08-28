@@ -11,8 +11,7 @@ A Python-based bot that helps users generate customized resumes and prepare for 
 
 ## 🛠️ Tech Stack
 - **Python 3**
-- **Flask** (for web framework, if applicable)
-- **OpenAI API** (if used)
+- **OpenAI API** 
 - Other libraries listed in `requirements.txt`
 
 ## 📂 Project Structure
