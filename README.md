@@ -58,4 +58,4 @@ JOB-AUTOMATION-BOT/
    ```
 
 ## 📜 License
-This project is for educational purposes. Add a license (MIT, Apache, etc.) if you plan to share it publicly.
+This project is for educational purposes.
